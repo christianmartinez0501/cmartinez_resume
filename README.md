@@ -4,6 +4,6 @@ To view my resume, please click on the github pages site here: [resume](https://
 
 Any feedback would be most welcomed.
 
-## (Consider giving credit to the) Original Author
+## Original Author
 
 Eliseo Papa ([Twitter](http://twitter.com/elipapa)/[Github](http://github.com/elipapa)/[Website](https://elipapa.github.io)).
