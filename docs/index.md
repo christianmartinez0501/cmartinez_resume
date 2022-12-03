@@ -18,10 +18,7 @@ title: Resume
 __Brigham Young University - Idaho__, Rexburg, ID
 
 - 3.3 Major GPA
-
-## Certificates
-
-- Computer Programming (2021-2022) (Is there a place the certificate can be linked from? Is this from BYU-Idaho?)
+- Computer Programming Certificate (2021-2022)
 
 ## Skills
 
