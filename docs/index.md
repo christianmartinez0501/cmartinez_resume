@@ -57,7 +57,7 @@ __Databases__
 __Machine Learning__
 
 - Experimented with multiple machine learning algorithms.  
-- Collaborated with a team to develop and implement our model to predict housing sales. (On what dataset? How often they sold or their sale value?)
+- Collaborated with a team to develop and implement our model to predict on the King County sales.
 - Collected and analyzed data to improve machine learning project.
 
 ## Work Experience
