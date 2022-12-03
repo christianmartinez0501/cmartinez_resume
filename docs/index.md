@@ -38,7 +38,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 __Mindfulness Application__
 
-- (Maybe mention what problem the application solves/why it's useful)
+- Application built for students to stay organized and focused on homework.
 - Collaborated with a team to design, plan, and create a functional website. 
 - Developed multiple frameworks for a dynamic experience. 
 - Performed with Django’s built-in database to store and retrieve data from users. 
@@ -67,14 +67,10 @@ __Machine Learning__
 __The Hickory__, Assistant Manager, Rexburg, ID  
 
 - Learned to lead 6 other employees.
-- Conducted procedures and enforced business policies.
-- Directed verbal, written, and impersonal communication skills. (Unsure what you mean by this one. Did you teach others how to do this?)
-- Structured to work under pressure and in a fast-paced environment. (Unsure. Did you structure the operations to allow your employees to work in a fast-paced environment?)
+- Conducted procedures and enforced business policies. 
+- Adapted to work under pressure and in a fast-pace environment. 
 - Developed a team-player mindset and recognized employee strengths. 
 
-## Volunteer Experience
-
-- (Consider adding this section with service projects, etc. It's okay if you don't have it.)
 
 <!-- ### Footer
 
