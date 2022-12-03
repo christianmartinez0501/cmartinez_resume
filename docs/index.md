@@ -21,13 +21,15 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 ## Certificates
 
-- Computer Programming (2021-2022)  
+- Computer Programming (2021-2022) (Is there a place the certificate can be linked from? Is this from BYU-Idaho?)
 
 ## Skills
 
-- Python, C++, R  
+- Web Development
+- Data Science
+- Python, C++, R
 - JavaScript, HTML, CSS
-- Django 
+- Django
 - SQL
 
 ## Experiential Learning Projects
@@ -36,6 +38,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 __Mindfulness Application__
 
+- (Maybe mention what problem the application solves/why it's useful)
 - Collaborated with a team to design, plan, and create a functional website. 
 - Developed multiple frameworks for a dynamic experience. 
 - Performed with Django’s built-in database to store and retrieve data from users. 
@@ -46,31 +49,33 @@ __Mindfulness Application__
 __Databases__
 
 - Created a Python application that interacts with a database using CRUD operations.  
-- Limited to two weeks to research, and build a functional software with Firebase. 
-- Planning and prioritizing time to accomplish the project. 
+- Took two weeks to research and build a functional software with Firebase. 
+- Effectively planned and prioritized time to accomplish the project. 
 
 `Spring 2022`
 
 __Machine Learning__
 
 - Experimented with multiple machine learning algorithms.  
-- Collaborated with a team to develop and implement our model to predict housing sales. 
-- Collected and analyzed data to improve machine learning project. 
+- Collaborated with a team to develop and implement our model to predict housing sales. (On what dataset? How often they sold or their sale value?)
+- Collected and analyzed data to improve machine learning project.
 
 ## Work Experience
 
 `Dec 2018 – Sep 2022`
 
-__The Hickory__, Assistant Manager  Rexburg, ID  
+__The Hickory__, Assistant Manager, Rexburg, ID  
 
-- Managed to take initiative and lead 6 other employees. 
-- Conducted procedures and policies. 
-- Directed verbal, written, and impersonal communication skills. 
-- Structured to work under pressure and in a fast-paced environment. 
-- Developed a team-player mindset and recognized employee skills. 
+- Learned to lead 6 other employees.
+- Conducted procedures and enforced business policies.
+- Directed verbal, written, and impersonal communication skills. (Unsure what you mean by this one. Did you teach others how to do this?)
+- Structured to work under pressure and in a fast-paced environment. (Unsure. Did you structure the operations to allow your employees to work in a fast-paced environment?)
+- Developed a team-player mindset and recognized employee strengths. 
+
+## Volunteer Experience
+
+- (Consider adding this section with service projects, etc. It's okay if you don't have it.)
 
 <!-- ### Footer
 
 Last updated: December 2022 -->
-
-
