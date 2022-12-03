@@ -18,16 +18,15 @@ title: Resume
 __Brigham Young University - Idaho__, Rexburg, ID
 
 - 3.3 Major GPA
-
-## Certificates
-
-- Computer Programming (2021-2022)  
+- Computer Programming Certificate (2021-2022)
 
 ## Skills
 
-- Python, C++, R  
+- Web Development
+- Data Science
+- Python, C++, R
 - JavaScript, HTML, CSS
-- Django 
+- Django
 - SQL
 
 ## Experiential Learning Projects
@@ -36,6 +35,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 __Mindfulness Application__
 
+- Application built for students to stay organized and focused on homework.
 - Collaborated with a team to design, plan, and create a functional website. 
 - Developed multiple frameworks for a dynamic experience. 
 - Performed with Django’s built-in database to store and retrieve data from users. 
@@ -46,31 +46,29 @@ __Mindfulness Application__
 __Databases__
 
 - Created a Python application that interacts with a database using CRUD operations.  
-- Limited to two weeks to research, and build a functional software with Firebase. 
-- Planning and prioritizing time to accomplish the project. 
+- Took two weeks to research and build a functional software with Firebase. 
+- Effectively planned and prioritized time to accomplish the project. 
 
 `Spring 2022`
 
 __Machine Learning__
 
 - Experimented with multiple machine learning algorithms.  
-- Collaborated with a team to develop and implement our model to predict housing sales. 
-- Collected and analyzed data to improve machine learning project. 
+- Collaborated with a team to develop and implement our model to predict on the King County sales.
+- Collected and analyzed data to improve machine learning project.
 
 ## Work Experience
 
 `Dec 2018 – Sep 2022`
 
-__The Hickory__, Assistant Manager  Rexburg, ID  
+__The Hickory__, Assistant Manager, Rexburg, ID  
 
-- Managed to take initiative and lead 6 other employees. 
-- Conducted procedures and policies. 
-- Directed verbal, written, and impersonal communication skills. 
-- Structured to work under pressure and in a fast-paced environment. 
-- Developed a team-player mindset and recognized employee skills. 
+- Learned to lead 6 other employees.
+- Conducted procedures and enforced business policies. 
+- Adapted to work under pressure and in a fast-pace environment. 
+- Developed a team-player mindset and recognized employee strengths. 
+
 
 <!-- ### Footer
 
 Last updated: December 2022 -->
-
-
